@@ -1,0 +1,5 @@
+micronaut:
+    application:
+        name: rxhooktest
+    server:
+        port: 8080
