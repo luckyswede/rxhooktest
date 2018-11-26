@@ -23,7 +23,8 @@ dependencyManagement {
 dependencies {
     annotationProcessor "io.micronaut:micronaut-inject-java"
 
-//    compile "io.micronaut:micronaut-tracing"
+    compile "io.micronaut:micronaut-tracing"
+
     compile "io.micronaut:micronaut-inject"
     compile "io.micronaut:micronaut-validation"
     compile "io.micronaut:micronaut-runtime"
